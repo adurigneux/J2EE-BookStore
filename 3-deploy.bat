@@ -1,0 +1,1 @@
+start "deploy bookstore" /D "C:\devel\glassfish4\bin" "asadmin.bat" deploy --force C:\Users\Antoine\IdeaProjects\bookstore\bookstore.war
